@@ -894,10 +894,6 @@
 <false/>
 </prop.pair>
 <prop.pair>
-<key>MaxFramePath</key>
-<string>010</string>
-</prop.pair>
-<prop.pair>
 <key>Splitter</key>
 <prop.list>
 <prop.pair>
@@ -959,7 +955,7 @@
 </prop.pair>
 <prop.pair>
 <key>Vis</key>
-<false/>
+<true/>
 </prop.pair>
 <prop.pair>
 <key>VisTabState-0</key>
@@ -1003,7 +999,7 @@
 </prop.pair>
 <prop.pair>
 <key>Vis</key>
-<false/>
+<true/>
 </prop.pair>
 <prop.pair>
 <key>VisTabState-0</key>
@@ -1053,7 +1049,7 @@
 </prop.pair>
 <prop.pair>
 <key>Place</key>
-<float>0.1183432</float>
+<float>0.059171598</float>
 </prop.pair>
 <prop.pair>
 <key>Sub1</key>
@@ -1232,7 +1228,7 @@
 </prop.pair>
 <prop.pair>
 <key>Vis</key>
-<false/>
+<true/>
 </prop.pair>
 <prop.pair>
 <key>VisTabState-0</key>
